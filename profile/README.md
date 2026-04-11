@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1536" height="200" width="200" alt="Metallic orbital logo with arrow" src="https://github.com/user-attachments/assets/4994499c-564e-4a7e-87fb-430318b465d2" />
+<img width="1536" height="400" width="200" alt="Metallic orbital logo with arrow" src="https://github.com/user-attachments/assets/4994499c-564e-4a7e-87fb-430318b465d2" />
 7.Orbits
 Open-source tools that actually matter — for everyone.
 Show Image
