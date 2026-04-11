@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/7-Orbits/.github/main/profile/logo.png" width="96" alt="7.Orbits" />
+  <img width="612" height="408" alt="Metallic_orbital_logo_with_arrow-removebg-preview" src="https://github.com/user-attachments/assets/0b8c0760-53fa-411d-a937-368de14e8a44" />
   <br/><br/>
 
   <h1>7.Orbits</h1>
