@@ -1,8 +1,4 @@
 <div align="center">
-  <br/>
-  <img width="612" height="408" alt="Metallic_orbital_logo_with_arrow-removebg-preview" src="https://github.com/user-attachments/assets/0b8c0760-53fa-411d-a937-368de14e8a44" />
-  <br/><br/>
-
   <h1>7.Orbits</h1>
 
   <p><strong>Open-source tools built for everyone — technical and non-technical alike.</strong></p>
