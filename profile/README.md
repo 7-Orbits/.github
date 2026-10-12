@@ -15,9 +15,9 @@
 
 ---
 
-## What is 7.Orbits?
+## What is 7-Orbits?
 
-7.Orbits is an open-source organization with one clear goal: **build tools that actually help people get things done** — regardless of their technical background.
+7-Orbits is an open-source organization with one clear goal: **build tools that actually help people get things done** — regardless of their technical background.
 
 We believe the best software is the kind that doesn't ask you to learn before you can use it. Every project we ship is designed with both developers and non-developers in mind, free to use, and open to contributions from anyone.
 
@@ -29,7 +29,7 @@ We believe the best software is the kind that doesn't ask you to learn before yo
 We don't build for a specific type of user. If a tool only works for developers, we haven't finished building it yet.
 
 **Open-source, always.**
-Every project under 7.Orbits is open-source — not as an afterthought, but as a principle. The code is yours to read, fork, learn from, and improve.
+Every project under 7-Orbits is open-source — not as an afterthought, but as a principle. The code is yours to read, fork, learn from, and improve.
 
 **Tools that matter.**
 We don't ship features for the sake of shipping. Every project starts with a real problem that real people face.
