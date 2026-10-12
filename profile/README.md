@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>7.Orbits</h1>
+  <h1>7-Orbits</h1>
 
   <p><strong>Open-source tools built for everyone — technical and non-technical alike.</strong></p>
 
